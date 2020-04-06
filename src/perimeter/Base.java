@@ -6,12 +6,7 @@ import edu.duke.Shape;
 
 public class Base {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Base pr = new Base();
-        pr.testPerimeter();
-
-	}
+	
 	
 	public double getPerimeter (Shape s) {
         // Start with totalPerim = 0
